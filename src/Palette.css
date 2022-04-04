@@ -2,5 +2,6 @@
   height: 100vh;
 }
 .Palette-colors {
-height: 90%;
+  height: 90%;
+  overflow-x: hidden;
 }
